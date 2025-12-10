@@ -1,0 +1,502 @@
+fecha;producto;categoria;precio;metodo_pago;tipo_envio;satisfaccion;edad_cliente
+2025-03-05;Motorola Edge 40;Smartphones;4090000;PayPal;Servientrega;2;20
+2025-01-26;Motorola Edge 40;Smartphones;2240000;Efectivo;Recogida en tienda;5;70
+2024-12-12;Samsung Odyssey G7;Monitores;2310000;Nequi/DaviPlata;Servientrega;2;40
+2025-12-05;Cargador GaN 100W;Accesorios;240000;Efectivo;Recogida en tienda;4;47
+2025-01-14;Monitor Portátil Arzopa;Monitores;2430000;Tarjeta Credito;Express;4;48
+2025-01-11;Xiaomi 13T;Smartphones;2850000;PayPal;Express;5;69
+2025-07-31;Hub USB-C Anker;Accesorios;440000;Tarjeta Debito;Express;4;47
+2025-11-15;Samsung Galaxy S24 Ultra;Smartphones;3520000;Tarjeta Debito;Express;5;43
+2025-08-27;Dell UltraSharp U2723QE;Monitores;2900000;Tarjeta Debito;Recogida en tienda;5;60
+2025-10-12;Xiaomi 13T;Smartphones;2050000;Nequi/DaviPlata;Express;4;22
+2025-01-26;Echo Dot 5th Gen;Altavoces;780000;PayPal;Express;4;29
+2025-06-15;Lenovo ThinkPad X1;Laptops;6190000;PayPal;Express;5;52
+2024-12-20;iPhone 15 Pro;Smartphones;3570000;PayPal;Express;4;55
+2025-02-06;Hub USB-C Anker;Accesorios;380000;PayPal;Recogida en tienda;4;46
+2025-06-03;JBL Flip 6;Altavoces;1260000;PayPal;Express;5;45
+2025-01-27;Cargador GaN 100W;Accesorios;430000;Tarjeta Debito;Servientrega;4;56
+2025-05-02;Webcam Logitech C920;Accesorios;160000;Tarjeta Debito;Recogida en tienda;5;70
+2025-01-24;JBL Flip 6;Altavoces;1680000;Tarjeta Credito;Recogida en tienda;4;38
+2025-12-02;Google Pixel 8;Smartphones;2400000;PayPal;Express;4;67
+2025-04-02;iPhone 15 Pro;Smartphones;4280000;Tarjeta Credito;Express;5;62
+2025-08-27;Sonos One;Altavoces;720000;Tarjeta Debito;Express;5;38
+2025-08-27;Hub USB-C Anker;Accesorios;430000;PayPal;Servientrega;4;20
+2025-04-02;Monitor Portátil Arzopa;Monitores;3470000;PayPal;Express;5;19
+2025-03-18;Samsung Odyssey G7;Monitores;2500000;PayPal;Recogida en tienda;4;18
+2025-08-04;Samsung Odyssey G7;Monitores;1510000;Efectivo;Recogida en tienda;4;41
+2025-04-24;MacBook Pro 16;Laptops;4510000;Tarjeta Credito;Servientrega;3;34
+2025-08-12;Xiaomi 13T;Smartphones;5650000;PayPal;Servientrega;4;64
+2025-03-23;LG UltraGear 27;Monitores;1760000;Tarjeta Debito;Recogida en tienda;4;52
+2025-07-08;Sonos One;Altavoces;1060000;Efectivo;Servientrega;3;27
+2025-03-31;Sonos One;Altavoces;640000;Tarjeta Credito;Recogida en tienda;4;41
+2025-04-14;Monitor Portátil Arzopa;Monitores;3390000;PayPal;Recogida en tienda;4;60
+2025-09-10;Echo Dot 5th Gen;Altavoces;1680000;Nequi/DaviPlata;Express;5;33
+2025-10-24;Samsung Galaxy S24 Ultra;Smartphones;2600000;Tarjeta Credito;Recogida en tienda;4;52
+2025-02-17;Samsung Odyssey G7;Monitores;3100000;Tarjeta Debito;Express;5;62
+2025-03-19;Monitor Portátil Arzopa;Monitores;1410000;Nequi/DaviPlata;Recogida en tienda;5;40
+2025-11-02;Motorola Edge 40;Smartphones;3210000;Efectivo;Servientrega;3;35
+2025-06-05;Asus ROG Zephyrus;Laptops;6780000;PayPal;Servientrega;4;50
+2025-10-28;Samsung Galaxy S24 Ultra;Smartphones;3620000;Tarjeta Credito;Recogida en tienda;4;36
+2025-11-16;Webcam Logitech C920;Accesorios;370000;Efectivo;Express;5;42
+2025-03-11;Hub USB-C Anker;Accesorios;380000;Tarjeta Debito;Recogida en tienda;4;67
+2025-01-28;HP Spectre x360;Laptops;7090000;Tarjeta Credito;Servientrega;4;28
+2025-07-11;Teclado Keychron K2;Accesorios;160000;Tarjeta Credito;Servientrega;5;34
+2025-01-20;Mouse Logitech MX Master 3S;Accesorios;330000;Tarjeta Debito;Recogida en tienda;5;33
+2025-03-11;Bose SoundLink Mini II;Altavoces;1020000;Tarjeta Debito;Express;4;51
+2025-02-20;HP Spectre x360;Laptops;6250000;Tarjeta Debito;Express;4;49
+2024-12-30;Motorola Edge 40;Smartphones;3820000;Tarjeta Credito;Recogida en tienda;5;20
+2025-05-08;Mouse Logitech MX Master 3S;Accesorios;490000;Nequi/DaviPlata;Servientrega;2;29
+2025-05-21;Dell XPS 15;Laptops;4160000;Tarjeta Debito;Express;4;65
+2025-11-24;Hub USB-C Anker;Accesorios;110000;PayPal;Express;5;58
+2025-01-22;Hub USB-C Anker;Accesorios;480000;Tarjeta Credito;Servientrega;2;20
+2025-05-29;Dell XPS 15;Laptops;3820000;PayPal;Express;4;59
+2025-07-13;Teclado Keychron K2;Accesorios;440000;Nequi/DaviPlata;Servientrega;2;20
+2025-04-16;HP Spectre x360;Laptops;5780000;PayPal;Servientrega;2;53
+2025-01-10;Dell XPS 15;Laptops;7940000;PayPal;Servientrega;5;23
+2025-07-09;Webcam Logitech C920;Accesorios;470000;Tarjeta Credito;Servientrega;2;47
+2025-02-01;LG UltraGear 27;Monitores;1000000;Efectivo;Recogida en tienda;4;21
+2025-02-13;Asus ROG Zephyrus;Laptops;3870000;Tarjeta Debito;Recogida en tienda;5;28
+2025-09-01;Echo Dot 5th Gen;Altavoces;410000;PayPal;Servientrega;4;59
+2025-03-27;MacBook Pro 16;Laptops;4610000;Tarjeta Debito;Recogida en tienda;5;56
+2025-10-03;iPhone 15 Pro;Smartphones;3860000;Tarjeta Credito;Servientrega;4;21
+2025-08-31;Monitor Portátil Arzopa;Monitores;3420000;Nequi/DaviPlata;Express;5;33
+2025-01-29;BenQ PD2700U;Monitores;2690000;Tarjeta Debito;Recogida en tienda;5;29
+2024-12-23;Lenovo ThinkPad X1;Laptops;3650000;Efectivo;Recogida en tienda;5;29
+2025-09-10;Teclado Keychron K2;Accesorios;430000;PayPal;Recogida en tienda;4;57
+2025-11-03;Sonos One;Altavoces;690000;Tarjeta Credito;Express;4;63
+2025-02-11;Hub USB-C Anker;Accesorios;400000;Tarjeta Debito;Recogida en tienda;5;30
+2025-08-20;Asus ROG Zephyrus;Laptops;5500000;Tarjeta Debito;Express;4;50
+2025-06-16;iPhone 15 Pro;Smartphones;2390000;PayPal;Recogida en tienda;4;21
+2025-03-18;Echo Dot 5th Gen;Altavoces;1620000;PayPal;Express;4;34
+2025-08-30;Google Pixel 8;Smartphones;3910000;Tarjeta Credito;Express;4;32
+2025-08-18;MacBook Pro 16;Laptops;6160000;Tarjeta Debito;Servientrega;4;21
+2025-02-02;Dell XPS 15;Laptops;5600000;PayPal;Recogida en tienda;4;42
+2025-04-15;Echo Dot 5th Gen;Altavoces;210000;Nequi/DaviPlata;Servientrega;5;36
+2025-02-13;Bose SoundLink Mini II;Altavoces;190000;Tarjeta Credito;Recogida en tienda;5;52
+2025-06-13;Xiaomi 13T;Smartphones;820000;Tarjeta Debito;Servientrega;5;34
+2025-04-25;Xiaomi 13T;Smartphones;2860000;Efectivo;Servientrega;5;23
+2025-01-10;Dell XPS 15;Laptops;7810000;Tarjeta Debito;Servientrega;4;37
+2025-08-09;Dell UltraSharp U2723QE;Monitores;740000;Nequi/DaviPlata;Express;5;29
+2025-07-15;Xiaomi 13T;Smartphones;4650000;Tarjeta Credito;Express;5;38
+2025-12-05;Echo Dot 5th Gen;Altavoces;210000;Tarjeta Debito;Express;4;69
+2025-07-06;Hub USB-C Anker;Accesorios;210000;PayPal;Servientrega;4;49
+2025-01-12;Lenovo ThinkPad X1;Laptops;3890000;Efectivo;Express;5;21
+2025-04-04;Xiaomi 13T;Smartphones;1730000;Tarjeta Debito;Express;4;68
+2025-09-28;Bose SoundLink Mini II;Altavoces;840000;PayPal;Servientrega;5;20
+2025-07-10;Samsung Galaxy S24 Ultra;Smartphones;2200000;Nequi/DaviPlata;Servientrega;5;29
+2025-08-14;Monitor Portátil Arzopa;Monitores;1210000;Tarjeta Credito;Express;4;37
+2025-01-25;BenQ PD2700U;Monitores;2060000;Tarjeta Credito;Servientrega;2;39
+2025-03-15;iPhone 15 Pro;Smartphones;6430000;Tarjeta Credito;Express;4;25
+2025-07-02;Webcam Logitech C920;Accesorios;130000;Efectivo;Express;4;66
+2025-05-16;Sonos One;Altavoces;800000;Efectivo;Servientrega;5;36
+2024-12-22;BenQ PD2700U;Monitores;1090000;Tarjeta Credito;Servientrega;3;56
+2025-02-13;LG UltraGear 27;Monitores;1790000;Nequi/DaviPlata;Recogida en tienda;4;20
+2025-10-19;HP Spectre x360;Laptops;5750000;Tarjeta Debito;Express;5;34
+2025-12-05;Motorola Edge 40;Smartphones;4480000;Tarjeta Credito;Express;5;21
+2025-08-01;Motorola Edge 40;Smartphones;4290000;Tarjeta Debito;Express;4;41
+2025-05-03;Motorola Edge 40;Smartphones;5730000;Tarjeta Credito;Express;4;59
+2025-04-25;LG UltraGear 27;Monitores;2730000;Tarjeta Debito;Servientrega;3;48
+2025-03-21;Samsung Odyssey G7;Monitores;910000;PayPal;Servientrega;5;49
+2025-08-01;Asus ROG Zephyrus;Laptops;8740000;PayPal;Servientrega;4;60
+2024-12-16;Hub USB-C Anker;Accesorios;390000;Nequi/DaviPlata;Servientrega;2;25
+2025-05-09;LG UltraGear 27;Monitores;2440000;Tarjeta Credito;Express;5;21
+2025-05-17;Webcam Logitech C920;Accesorios;160000;Nequi/DaviPlata;Servientrega;5;31
+2025-08-18;BenQ PD2700U;Monitores;630000;Efectivo;Express;5;39
+2025-08-31;Motorola Edge 40;Smartphones;1010000;Tarjeta Credito;Servientrega;3;29
+2025-05-20;HP Spectre x360;Laptops;8810000;Tarjeta Credito;Servientrega;3;41
+2025-03-30;Bose SoundLink Mini II;Altavoces;1030000;Tarjeta Debito;Recogida en tienda;4;54
+2025-05-08;Hub USB-C Anker;Accesorios;210000;Tarjeta Credito;Recogida en tienda;5;65
+2025-03-02;Sony SRS-XB43;Altavoces;1480000;Tarjeta Debito;Recogida en tienda;4;39
+2025-08-28;Google Pixel 8;Smartphones;4590000;PayPal;Express;4;23
+2025-02-22;Sonos One;Altavoces;590000;Tarjeta Credito;Servientrega;3;46
+2025-09-17;Asus ROG Zephyrus;Laptops;5880000;PayPal;Express;4;51
+2025-03-06;Monitor Portátil Arzopa;Monitores;690000;Nequi/DaviPlata;Recogida en tienda;4;30
+2025-02-01;Dell XPS 15;Laptops;5500000;Tarjeta Debito;Recogida en tienda;4;29
+2025-04-10;Dell XPS 15;Laptops;6610000;Tarjeta Credito;Servientrega;5;21
+2025-10-08;Echo Dot 5th Gen;Altavoces;360000;Tarjeta Debito;Servientrega;2;45
+2025-01-08;Motorola Edge 40;Smartphones;2110000;Nequi/DaviPlata;Servientrega;3;32
+2025-03-09;Lenovo ThinkPad X1;Laptops;6060000;PayPal;Servientrega;3;65
+2025-03-26;HP Spectre x360;Laptops;3870000;Efectivo;Express;5;21
+2025-04-21;HP Spectre x360;Laptops;6130000;Tarjeta Debito;Express;4;31
+2025-02-27;MacBook Pro 16;Laptops;4820000;Tarjeta Credito;Express;5;40
+2025-02-16;Xiaomi 13T;Smartphones;5140000;Tarjeta Credito;Recogida en tienda;5;23
+2025-11-25;Samsung Galaxy S24 Ultra;Smartphones;5930000;Tarjeta Debito;Recogida en tienda;5;30
+2025-05-27;iPhone 15 Pro;Smartphones;2960000;PayPal;Express;5;44
+2025-12-07;BenQ PD2700U;Monitores;1810000;Efectivo;Recogida en tienda;4;35
+2025-09-08;Xiaomi 13T;Smartphones;3940000;PayPal;Servientrega;4;26
+2025-01-29;Dell UltraSharp U2723QE;Monitores;1510000;Efectivo;Recogida en tienda;4;36
+2025-04-26;Lenovo ThinkPad X1;Laptops;7260000;Tarjeta Debito;Express;5;43
+2025-03-13;MacBook Pro 16;Laptops;5170000;Tarjeta Credito;Servientrega;3;39
+2025-05-10;Google Pixel 8;Smartphones;1290000;Efectivo;Recogida en tienda;5;68
+2025-11-18;JBL Flip 6;Altavoces;1230000;Tarjeta Debito;Express;5;42
+2025-07-24;Lenovo ThinkPad X1;Laptops;5100000;Tarjeta Credito;Servientrega;5;32
+2025-01-21;Samsung Galaxy S24 Ultra;Smartphones;2440000;Tarjeta Debito;Servientrega;2;18
+2025-04-09;Webcam Logitech C920;Accesorios;210000;Tarjeta Debito;Recogida en tienda;4;31
+2024-12-11;Cargador GaN 100W;Accesorios;400000;Tarjeta Credito;Express;4;50
+2025-11-28;Samsung Odyssey G7;Monitores;2700000;Tarjeta Debito;Servientrega;3;70
+2025-06-07;Lenovo ThinkPad X1;Laptops;4970000;Tarjeta Credito;Recogida en tienda;4;22
+2025-12-07;Google Pixel 8;Smartphones;5480000;Tarjeta Credito;Servientrega;4;28
+2025-07-02;Cargador GaN 100W;Accesorios;150000;Tarjeta Debito;Servientrega;4;39
+2025-07-06;Google Pixel 8;Smartphones;4340000;Tarjeta Debito;Servientrega;3;35
+2025-03-14;Samsung Odyssey G7;Monitores;2070000;Efectivo;Express;4;19
+2025-12-03;Xiaomi 13T;Smartphones;4900000;PayPal;Express;4;46
+2025-10-02;Asus ROG Zephyrus;Laptops;5120000;PayPal;Express;4;64
+2025-01-23;Hub USB-C Anker;Accesorios;210000;Efectivo;Servientrega;4;33
+2025-01-15;Samsung Odyssey G7;Monitores;750000;Nequi/DaviPlata;Recogida en tienda;5;27
+2025-11-29;LG UltraGear 27;Monitores;1320000;Nequi/DaviPlata;Servientrega;4;30
+2025-11-21;Google Pixel 8;Smartphones;4160000;PayPal;Servientrega;2;69
+2025-09-11;iPhone 15 Pro;Smartphones;900000;Tarjeta Credito;Recogida en tienda;4;38
+2025-08-27;Xiaomi 13T;Smartphones;6380000;Tarjeta Debito;Servientrega;3;21
+2025-10-11;Motorola Edge 40;Smartphones;3630000;PayPal;Recogida en tienda;4;23
+2025-04-03;HP Spectre x360;Laptops;6810000;PayPal;Servientrega;2;53
+2025-04-12;HP Spectre x360;Laptops;8740000;PayPal;Recogida en tienda;4;43
+2025-06-19;BenQ PD2700U;Monitores;3420000;Tarjeta Credito;Express;5;31
+2025-03-29;HP Spectre x360;Laptops;6970000;Tarjeta Credito;Servientrega;3;70
+2025-01-08;Sony SRS-XB43;Altavoces;1660000;Tarjeta Debito;Servientrega;2;60
+2025-09-09;HP Spectre x360;Laptops;3690000;Efectivo;Express;4;54
+2025-10-17;Hub USB-C Anker;Accesorios;250000;Nequi/DaviPlata;Servientrega;2;33
+2025-07-01;JBL Flip 6;Altavoces;1190000;Nequi/DaviPlata;Recogida en tienda;5;26
+2025-10-27;Xiaomi 13T;Smartphones;3820000;PayPal;Express;4;24
+2025-03-29;Lenovo ThinkPad X1;Laptops;3510000;Tarjeta Credito;Recogida en tienda;5;48
+2025-04-12;Teclado Keychron K2;Accesorios;140000;Efectivo;Recogida en tienda;5;59
+2025-04-18;Echo Dot 5th Gen;Altavoces;220000;Tarjeta Credito;Recogida en tienda;4;21
+2025-11-02;BenQ PD2700U;Monitores;3220000;Efectivo;Servientrega;2;19
+2025-01-04;Echo Dot 5th Gen;Altavoces;1640000;Efectivo;Express;5;62
+2025-11-24;BenQ PD2700U;Monitores;1390000;Efectivo;Express;5;53
+2025-10-15;Xiaomi 13T;Smartphones;2690000;Tarjeta Debito;Express;4;24
+2025-01-22;Webcam Logitech C920;Accesorios;340000;Efectivo;Express;4;32
+2025-04-12;HP Spectre x360;Laptops;4800000;Tarjeta Credito;Express;5;66
+2025-05-29;Lenovo ThinkPad X1;Laptops;8500000;PayPal;Recogida en tienda;5;43
+2025-01-07;Echo Dot 5th Gen;Altavoces;610000;Nequi/DaviPlata;Express;5;39
+2025-10-19;Dell XPS 15;Laptops;4380000;Tarjeta Debito;Express;4;60
+2025-06-08;Mouse Logitech MX Master 3S;Accesorios;110000;Tarjeta Debito;Express;5;45
+2025-03-31;Hub USB-C Anker;Accesorios;230000;Tarjeta Debito;Express;4;29
+2025-08-07;Teclado Keychron K2;Accesorios;460000;PayPal;Recogida en tienda;5;67
+2025-04-04;LG UltraGear 27;Monitores;1020000;Nequi/DaviPlata;Express;4;39
+2025-10-07;JBL Flip 6;Altavoces;220000;PayPal;Servientrega;3;46
+2024-12-24;Dell UltraSharp U2723QE;Monitores;790000;Tarjeta Credito;Servientrega;4;70
+2024-12-12;Lenovo ThinkPad X1;Laptops;8570000;Tarjeta Debito;Servientrega;3;66
+2025-01-17;Xiaomi 13T;Smartphones;4840000;Tarjeta Credito;Recogida en tienda;5;49
+2025-09-18;LG UltraGear 27;Monitores;1160000;Tarjeta Debito;Express;5;53
+2025-11-25;Asus ROG Zephyrus;Laptops;7900000;PayPal;Servientrega;4;46
+2025-08-20;JBL Flip 6;Altavoces;560000;Nequi/DaviPlata;Recogida en tienda;5;31
+2025-09-08;HP Spectre x360;Laptops;8170000;Tarjeta Debito;Express;5;47
+2025-07-18;JBL Flip 6;Altavoces;740000;PayPal;Recogida en tienda;5;20
+2025-12-09;Lenovo ThinkPad X1;Laptops;5200000;Tarjeta Credito;Express;4;64
+2025-10-01;Motorola Edge 40;Smartphones;3950000;Tarjeta Debito;Express;4;28
+2025-09-19;Echo Dot 5th Gen;Altavoces;220000;Tarjeta Credito;Express;5;30
+2025-07-23;BenQ PD2700U;Monitores;1800000;PayPal;Express;4;46
+2025-01-25;iPhone 15 Pro;Smartphones;1320000;Efectivo;Express;4;64
+2025-09-30;Dell XPS 15;Laptops;8770000;PayPal;Recogida en tienda;5;57
+2024-12-31;Echo Dot 5th Gen;Altavoces;730000;Tarjeta Credito;Servientrega;4;69
+2024-12-22;Cargador GaN 100W;Accesorios;90000;Tarjeta Credito;Express;4;21
+2025-02-05;Teclado Keychron K2;Accesorios;480000;PayPal;Servientrega;5;56
+2025-01-27;Echo Dot 5th Gen;Altavoces;320000;Tarjeta Debito;Servientrega;5;68
+2025-11-01;HP Spectre x360;Laptops;8370000;Tarjeta Debito;Recogida en tienda;5;47
+2025-02-15;Dell UltraSharp U2723QE;Monitores;1670000;Tarjeta Credito;Recogida en tienda;5;33
+2024-12-30;Dell UltraSharp U2723QE;Monitores;3480000;Efectivo;Recogida en tienda;4;69
+2025-10-11;Teclado Keychron K2;Accesorios;290000;Efectivo;Servientrega;2;27
+2025-10-26;Dell UltraSharp U2723QE;Monitores;2120000;Tarjeta Debito;Recogida en tienda;4;45
+2025-07-05;Webcam Logitech C920;Accesorios;440000;PayPal;Recogida en tienda;5;33
+2025-05-17;Dell XPS 15;Laptops;4500000;Tarjeta Credito;Express;4;33
+2025-05-14;Dell XPS 15;Laptops;4800000;Tarjeta Credito;Express;5;31
+2025-06-11;JBL Flip 6;Altavoces;1340000;Tarjeta Debito;Recogida en tienda;5;46
+2025-11-16;HP Spectre x360;Laptops;6250000;PayPal;Servientrega;3;61
+2025-08-12;MacBook Pro 16;Laptops;5590000;Tarjeta Debito;Recogida en tienda;5;38
+2025-08-17;Dell UltraSharp U2723QE;Monitores;3190000;Efectivo;Express;5;54
+2025-09-16;Sony SRS-XB43;Altavoces;200000;Nequi/DaviPlata;Servientrega;3;38
+2025-08-19;LG UltraGear 27;Monitores;1850000;Tarjeta Debito;Express;4;68
+2025-09-03;Dell UltraSharp U2723QE;Monitores;2770000;Nequi/DaviPlata;Express;4;39
+2025-11-07;Dell UltraSharp U2723QE;Monitores;2090000;Tarjeta Credito;Express;5;46
+2025-02-23;Xiaomi 13T;Smartphones;3410000;Tarjeta Debito;Recogida en tienda;4;38
+2025-08-05;Sony SRS-XB43;Altavoces;780000;Efectivo;Servientrega;4;51
+2025-01-02;Echo Dot 5th Gen;Altavoces;300000;Tarjeta Debito;Express;4;32
+2025-07-01;Hub USB-C Anker;Accesorios;500000;PayPal;Express;4;57
+2025-05-27;Samsung Galaxy S24 Ultra;Smartphones;1430000;Tarjeta Credito;Servientrega;3;28
+2025-05-22;Hub USB-C Anker;Accesorios;250000;Efectivo;Express;4;25
+2025-06-18;MacBook Pro 16;Laptops;3860000;Efectivo;Recogida en tienda;5;44
+2025-07-05;Samsung Galaxy S24 Ultra;Smartphones;4960000;PayPal;Servientrega;4;47
+2025-04-18;Xiaomi 13T;Smartphones;4810000;PayPal;Servientrega;5;41
+2025-11-06;Monitor Portátil Arzopa;Monitores;2000000;Nequi/DaviPlata;Express;4;33
+2025-11-05;Lenovo ThinkPad X1;Laptops;3800000;PayPal;Recogida en tienda;4;31
+2025-10-18;Motorola Edge 40;Smartphones;5610000;Tarjeta Debito;Recogida en tienda;4;54
+2025-06-10;JBL Flip 6;Altavoces;1390000;Tarjeta Credito;Recogida en tienda;4;26
+2025-10-24;Monitor Portátil Arzopa;Monitores;2560000;Tarjeta Debito;Servientrega;3;50
+2025-07-30;HP Spectre x360;Laptops;4360000;Tarjeta Debito;Express;5;61
+2025-08-25;Dell XPS 15;Laptops;4820000;Tarjeta Debito;Recogida en tienda;5;20
+2025-06-17;Cargador GaN 100W;Accesorios;90000;PayPal;Express;5;56
+2025-04-21;Xiaomi 13T;Smartphones;5250000;PayPal;Recogida en tienda;4;31
+2025-02-22;Dell UltraSharp U2723QE;Monitores;1960000;Tarjeta Debito;Servientrega;2;18
+2025-09-01;Sonos One;Altavoces;190000;Efectivo;Servientrega;2;57
+2025-02-17;Samsung Galaxy S24 Ultra;Smartphones;2000000;Nequi/DaviPlata;Express;4;22
+2025-06-26;Lenovo ThinkPad X1;Laptops;8580000;Tarjeta Credito;Recogida en tienda;4;33
+2025-11-01;Echo Dot 5th Gen;Altavoces;900000;PayPal;Recogida en tienda;5;36
+2025-04-28;Monitor Portátil Arzopa;Monitores;2190000;Tarjeta Debito;Express;5;55
+2025-02-10;JBL Flip 6;Altavoces;1330000;PayPal;Servientrega;2;47
+2025-09-20;Monitor Portátil Arzopa;Monitores;2430000;Tarjeta Credito;Express;4;26
+2025-10-30;Google Pixel 8;Smartphones;2190000;Tarjeta Debito;Express;4;49
+2025-11-26;Monitor Portátil Arzopa;Monitores;2090000;PayPal;Servientrega;2;51
+2025-03-31;BenQ PD2700U;Monitores;3240000;PayPal;Recogida en tienda;4;18
+2025-08-27;LG UltraGear 27;Monitores;1140000;Nequi/DaviPlata;Servientrega;5;38
+2025-10-12;Dell UltraSharp U2723QE;Monitores;770000;Tarjeta Credito;Express;4;51
+2025-01-22;Webcam Logitech C920;Accesorios;230000;PayPal;Express;4;28
+2025-10-22;Sonos One;Altavoces;1410000;Tarjeta Debito;Servientrega;3;21
+2025-06-26;Lenovo ThinkPad X1;Laptops;8460000;Tarjeta Credito;Servientrega;2;46
+2025-01-08;HP Spectre x360;Laptops;7740000;Tarjeta Credito;Recogida en tienda;4;43
+2025-04-05;Monitor Portátil Arzopa;Monitores;2010000;Nequi/DaviPlata;Recogida en tienda;5;40
+2024-12-15;Google Pixel 8;Smartphones;3360000;Tarjeta Debito;Recogida en tienda;5;35
+2025-03-11;Xiaomi 13T;Smartphones;2500000;Tarjeta Debito;Express;4;22
+2024-12-15;Echo Dot 5th Gen;Altavoces;1700000;Tarjeta Credito;Recogida en tienda;5;50
+2025-08-16;HP Spectre x360;Laptops;7480000;PayPal;Express;4;27
+2025-09-24;Samsung Galaxy S24 Ultra;Smartphones;4320000;Tarjeta Debito;Servientrega;5;43
+2025-07-02;Samsung Odyssey G7;Monitores;2820000;Nequi/DaviPlata;Recogida en tienda;5;24
+2025-06-30;BenQ PD2700U;Monitores;2950000;Efectivo;Recogida en tienda;5;34
+2025-05-23;LG UltraGear 27;Monitores;640000;Tarjeta Debito;Servientrega;4;25
+2025-05-30;Samsung Galaxy S24 Ultra;Smartphones;1570000;PayPal;Servientrega;4;57
+2025-09-16;Echo Dot 5th Gen;Altavoces;1060000;Nequi/DaviPlata;Recogida en tienda;4;31
+2025-11-08;Dell XPS 15;Laptops;7760000;Tarjeta Credito;Recogida en tienda;5;19
+2025-07-15;Xiaomi 13T;Smartphones;5910000;PayPal;Servientrega;5;18
+2025-06-09;LG UltraGear 27;Monitores;770000;Nequi/DaviPlata;Express;5;20
+2025-06-15;JBL Flip 6;Altavoces;440000;PayPal;Express;5;61
+2025-02-15;Teclado Keychron K2;Accesorios;230000;PayPal;Servientrega;3;37
+2025-08-14;Samsung Odyssey G7;Monitores;2350000;Efectivo;Servientrega;5;33
+2025-03-17;Sonos One;Altavoces;1770000;Tarjeta Credito;Servientrega;2;51
+2024-12-15;MacBook Pro 16;Laptops;4880000;Tarjeta Debito;Servientrega;5;57
+2025-11-14;Xiaomi 13T;Smartphones;3980000;Efectivo;Express;5;22
+2025-03-25;Lenovo ThinkPad X1;Laptops;7890000;Tarjeta Credito;Servientrega;4;19
+2025-09-09;BenQ PD2700U;Monitores;840000;Tarjeta Debito;Servientrega;5;23
+2025-07-30;Google Pixel 8;Smartphones;5050000;Tarjeta Credito;Express;5;25
+2025-10-19;Google Pixel 8;Smartphones;6310000;Tarjeta Credito;Express;5;23
+2025-11-17;Asus ROG Zephyrus;Laptops;5350000;Tarjeta Debito;Servientrega;5;41
+2025-09-18;Samsung Odyssey G7;Monitores;3220000;Tarjeta Credito;Recogida en tienda;4;65
+2025-10-24;Bose SoundLink Mini II;Altavoces;1330000;PayPal;Servientrega;2;69
+2025-12-05;Samsung Galaxy S24 Ultra;Smartphones;1440000;PayPal;Servientrega;5;70
+2025-04-27;BenQ PD2700U;Monitores;610000;PayPal;Recogida en tienda;5;64
+2025-10-01;Sony SRS-XB43;Altavoces;290000;PayPal;Servientrega;3;66
+2025-01-21;Motorola Edge 40;Smartphones;3260000;Efectivo;Recogida en tienda;5;22
+2025-03-29;Sony SRS-XB43;Altavoces;700000;Nequi/DaviPlata;Recogida en tienda;5;27
+2025-05-21;Motorola Edge 40;Smartphones;1720000;PayPal;Express;5;40
+2025-02-23;Dell XPS 15;Laptops;7640000;PayPal;Recogida en tienda;4;38
+2025-10-26;Asus ROG Zephyrus;Laptops;6940000;PayPal;Servientrega;4;44
+2025-02-19;Asus ROG Zephyrus;Laptops;6500000;Tarjeta Debito;Recogida en tienda;4;51
+2025-02-18;Google Pixel 8;Smartphones;6290000;Tarjeta Debito;Express;5;50
+2025-04-08;Dell XPS 15;Laptops;6520000;Tarjeta Credito;Recogida en tienda;5;58
+2025-11-09;Lenovo ThinkPad X1;Laptops;7480000;PayPal;Express;5;61
+2025-03-18;Dell XPS 15;Laptops;3880000;Nequi/DaviPlata;Recogida en tienda;4;22
+2025-05-13;Monitor Portátil Arzopa;Monitores;1790000;PayPal;Express;5;49
+2025-05-24;Mouse Logitech MX Master 3S;Accesorios;360000;Efectivo;Recogida en tienda;5;24
+2025-07-10;Teclado Keychron K2;Accesorios;380000;Tarjeta Debito;Recogida en tienda;5;31
+2025-09-21;Bose SoundLink Mini II;Altavoces;870000;Efectivo;Recogida en tienda;4;39
+2025-08-10;Bose SoundLink Mini II;Altavoces;650000;PayPal;Express;4;45
+2025-06-15;iPhone 15 Pro;Smartphones;3930000;Nequi/DaviPlata;Servientrega;4;32
+2025-05-30;Echo Dot 5th Gen;Altavoces;880000;Tarjeta Credito;Recogida en tienda;5;40
+2025-08-29;Hub USB-C Anker;Accesorios;500000;Efectivo;Recogida en tienda;4;37
+2025-08-22;Hub USB-C Anker;Accesorios;430000;PayPal;Recogida en tienda;5;60
+2025-05-04;Lenovo ThinkPad X1;Laptops;4480000;Tarjeta Debito;Servientrega;2;63
+2025-06-11;Asus ROG Zephyrus;Laptops;8670000;Tarjeta Debito;Recogida en tienda;4;35
+2025-10-16;JBL Flip 6;Altavoces;320000;Efectivo;Express;4;51
+2025-02-10;Hub USB-C Anker;Accesorios;110000;Tarjeta Credito;Servientrega;5;18
+2025-05-01;Samsung Galaxy S24 Ultra;Smartphones;3560000;Nequi/DaviPlata;Express;5;36
+2025-02-24;Samsung Galaxy S24 Ultra;Smartphones;4580000;Tarjeta Credito;Recogida en tienda;5;62
+2025-03-07;Monitor Portátil Arzopa;Monitores;3410000;Efectivo;Express;5;70
+2025-12-04;JBL Flip 6;Altavoces;540000;Tarjeta Debito;Express;5;26
+2025-12-07;Echo Dot 5th Gen;Altavoces;470000;Tarjeta Credito;Express;5;69
+2024-12-13;Dell UltraSharp U2723QE;Monitores;3200000;Tarjeta Debito;Recogida en tienda;5;31
+2025-05-02;HP Spectre x360;Laptops;7690000;Tarjeta Credito;Express;5;46
+2025-03-01;HP Spectre x360;Laptops;8310000;Tarjeta Debito;Servientrega;2;64
+2025-04-06;Teclado Keychron K2;Accesorios;440000;Tarjeta Credito;Servientrega;5;19
+2025-04-29;Google Pixel 8;Smartphones;3440000;Nequi/DaviPlata;Express;5;20
+2025-09-25;Webcam Logitech C920;Accesorios;330000;Nequi/DaviPlata;Express;5;36
+2025-07-01;MacBook Pro 16;Laptops;5540000;PayPal;Servientrega;5;64
+2025-11-03;Sony SRS-XB43;Altavoces;420000;PayPal;Servientrega;5;42
+2025-11-08;iPhone 15 Pro;Smartphones;4500000;Tarjeta Debito;Servientrega;3;25
+2024-12-23;Webcam Logitech C920;Accesorios;370000;Tarjeta Credito;Recogida en tienda;5;55
+2025-07-15;Teclado Keychron K2;Accesorios;500000;Tarjeta Debito;Recogida en tienda;5;27
+2025-05-15;Hub USB-C Anker;Accesorios;480000;PayPal;Recogida en tienda;5;54
+2025-04-05;Asus ROG Zephyrus;Laptops;3920000;Efectivo;Recogida en tienda;5;31
+2025-06-26;Samsung Odyssey G7;Monitores;1410000;Nequi/DaviPlata;Servientrega;3;32
+2025-11-30;LG UltraGear 27;Monitores;2810000;Tarjeta Debito;Recogida en tienda;4;58
+2025-05-16;Mouse Logitech MX Master 3S;Accesorios;500000;PayPal;Express;5;48
+2025-10-09;Xiaomi 13T;Smartphones;5110000;Tarjeta Debito;Servientrega;3;51
+2025-08-14;BenQ PD2700U;Monitores;1660000;Tarjeta Credito;Express;5;41
+2025-03-03;Hub USB-C Anker;Accesorios;150000;PayPal;Express;5;34
+2025-11-13;Samsung Odyssey G7;Monitores;3270000;Tarjeta Credito;Recogida en tienda;4;66
+2025-01-07;Motorola Edge 40;Smartphones;4600000;Tarjeta Debito;Servientrega;2;68
+2025-10-09;BenQ PD2700U;Monitores;1020000;Nequi/DaviPlata;Servientrega;5;24
+2025-11-04;HP Spectre x360;Laptops;4020000;PayPal;Servientrega;3;46
+2025-05-06;HP Spectre x360;Laptops;4420000;PayPal;Recogida en tienda;5;31
+2025-02-22;Sonos One;Altavoces;270000;PayPal;Express;5;62
+2025-04-25;Dell UltraSharp U2723QE;Monitores;2380000;Efectivo;Servientrega;4;55
+2025-04-03;Google Pixel 8;Smartphones;2530000;Tarjeta Credito;Servientrega;3;21
+2025-05-24;Motorola Edge 40;Smartphones;6400000;Tarjeta Debito;Recogida en tienda;4;67
+2025-07-22;Motorola Edge 40;Smartphones;3520000;Tarjeta Debito;Express;4;63
+2025-06-11;Xiaomi 13T;Smartphones;5770000;PayPal;Recogida en tienda;4;29
+2025-04-17;iPhone 15 Pro;Smartphones;5660000;Tarjeta Credito;Recogida en tienda;5;48
+2025-03-18;Sony SRS-XB43;Altavoces;1780000;PayPal;Express;4;56
+2025-02-23;HP Spectre x360;Laptops;8160000;Tarjeta Credito;Express;4;32
+2025-06-02;iPhone 15 Pro;Smartphones;3820000;PayPal;Servientrega;3;62
+2025-03-25;Sonos One;Altavoces;510000;Tarjeta Credito;Express;5;18
+2025-01-08;Asus ROG Zephyrus;Laptops;5500000;PayPal;Express;4;42
+2025-09-19;Cargador GaN 100W;Accesorios;300000;Nequi/DaviPlata;Express;5;26
+2025-03-14;LG UltraGear 27;Monitores;2060000;Nequi/DaviPlata;Recogida en tienda;4;22
+2025-07-15;Teclado Keychron K2;Accesorios;450000;Tarjeta Credito;Express;5;35
+2025-05-19;Hub USB-C Anker;Accesorios;100000;Nequi/DaviPlata;Recogida en tienda;5;22
+2024-12-12;Sonos One;Altavoces;1720000;Nequi/DaviPlata;Recogida en tienda;4;19
+2025-01-03;iPhone 15 Pro;Smartphones;3910000;Tarjeta Debito;Recogida en tienda;5;18
+2025-10-21;Dell UltraSharp U2723QE;Monitores;810000;Nequi/DaviPlata;Recogida en tienda;5;31
+2025-05-17;HP Spectre x360;Laptops;4630000;PayPal;Servientrega;3;53
+2025-01-03;Webcam Logitech C920;Accesorios;180000;Nequi/DaviPlata;Recogida en tienda;4;24
+2025-11-11;MacBook Pro 16;Laptops;6820000;Tarjeta Debito;Recogida en tienda;4;37
+2024-12-30;Dell UltraSharp U2723QE;Monitores;770000;Tarjeta Credito;Express;4;59
+2025-11-06;Cargador GaN 100W;Accesorios;190000;Tarjeta Debito;Servientrega;2;19
+2025-11-14;Monitor Portátil Arzopa;Monitores;1080000;Efectivo;Servientrega;2;33
+2025-05-12;Samsung Odyssey G7;Monitores;2200000;Tarjeta Debito;Recogida en tienda;4;52
+2025-03-28;BenQ PD2700U;Monitores;2400000;Tarjeta Debito;Express;5;24
+2025-08-26;Lenovo ThinkPad X1;Laptops;8530000;Tarjeta Debito;Express;4;30
+2025-05-02;JBL Flip 6;Altavoces;1430000;Nequi/DaviPlata;Servientrega;5;39
+2025-03-09;Dell XPS 15;Laptops;4330000;Tarjeta Credito;Express;5;31
+2025-03-19;Asus ROG Zephyrus;Laptops;7350000;Tarjeta Debito;Express;4;28
+2025-03-14;Webcam Logitech C920;Accesorios;320000;Tarjeta Debito;Recogida en tienda;4;29
+2025-02-04;LG UltraGear 27;Monitores;1730000;PayPal;Express;5;44
+2025-04-22;Sonos One;Altavoces;300000;Nequi/DaviPlata;Recogida en tienda;5;40
+2025-02-21;Sony SRS-XB43;Altavoces;1670000;Nequi/DaviPlata;Servientrega;4;24
+2025-05-22;Asus ROG Zephyrus;Laptops;3640000;Efectivo;Recogida en tienda;5;34
+2025-09-26;Lenovo ThinkPad X1;Laptops;8300000;PayPal;Servientrega;5;26
+2025-05-25;HP Spectre x360;Laptops;4080000;Tarjeta Debito;Express;4;59
+2024-12-19;Hub USB-C Anker;Accesorios;460000;Efectivo;Express;4;57
+2025-08-01;Samsung Galaxy S24 Ultra;Smartphones;5720000;PayPal;Express;5;55
+2025-03-18;Dell XPS 15;Laptops;7170000;PayPal;Servientrega;2;69
+2025-02-26;MacBook Pro 16;Laptops;8550000;Tarjeta Credito;Servientrega;2;37
+2025-05-26;Monitor Portátil Arzopa;Monitores;1040000;Tarjeta Debito;Recogida en tienda;5;19
+2025-06-22;Mouse Logitech MX Master 3S;Accesorios;280000;PayPal;Express;5;55
+2025-06-19;HP Spectre x360;Laptops;5450000;Tarjeta Debito;Recogida en tienda;4;45
+2025-02-23;Bose SoundLink Mini II;Altavoces;380000;Nequi/DaviPlata;Servientrega;5;24
+2025-10-12;Sony SRS-XB43;Altavoces;1120000;Tarjeta Debito;Recogida en tienda;5;27
+2025-05-24;Bose SoundLink Mini II;Altavoces;1730000;Tarjeta Credito;Recogida en tienda;5;58
+2025-06-16;BenQ PD2700U;Monitores;880000;Tarjeta Credito;Servientrega;5;51
+2025-03-10;Sony SRS-XB43;Altavoces;270000;Tarjeta Debito;Recogida en tienda;4;62
+2025-07-07;Mouse Logitech MX Master 3S;Accesorios;310000;Efectivo;Express;5;36
+2025-03-04;Cargador GaN 100W;Accesorios;440000;Tarjeta Debito;Express;5;31
+2025-03-30;Echo Dot 5th Gen;Altavoces;1320000;Nequi/DaviPlata;Servientrega;5;24
+2025-04-21;Sonos One;Altavoces;1720000;Efectivo;Recogida en tienda;5;66
+2025-09-22;Google Pixel 8;Smartphones;2490000;Tarjeta Debito;Recogida en tienda;4;55
+2025-04-21;Google Pixel 8;Smartphones;4550000;Tarjeta Credito;Express;4;67
+2025-02-19;Monitor Portátil Arzopa;Monitores;2970000;Tarjeta Credito;Express;5;21
+2025-10-17;Lenovo ThinkPad X1;Laptops;5480000;Tarjeta Debito;Recogida en tienda;4;28
+2025-03-01;Motorola Edge 40;Smartphones;870000;PayPal;Servientrega;3;60
+2025-05-31;Sony SRS-XB43;Altavoces;1420000;PayPal;Recogida en tienda;4;65
+2025-09-12;Echo Dot 5th Gen;Altavoces;1190000;PayPal;Recogida en tienda;5;47
+2025-01-23;Samsung Odyssey G7;Monitores;1050000;Nequi/DaviPlata;Express;4;28
+2025-01-06;Hub USB-C Anker;Accesorios;340000;Tarjeta Debito;Servientrega;5;29
+2025-01-29;JBL Flip 6;Altavoces;1030000;Tarjeta Credito;Recogida en tienda;4;61
+2025-03-18;Webcam Logitech C920;Accesorios;360000;Nequi/DaviPlata;Express;5;40
+2025-09-22;Google Pixel 8;Smartphones;5460000;PayPal;Express;5;24
+2025-05-02;Samsung Galaxy S24 Ultra;Smartphones;5900000;Tarjeta Debito;Express;4;34
+2025-02-08;Echo Dot 5th Gen;Altavoces;1020000;Tarjeta Debito;Express;5;38
+2025-11-20;Webcam Logitech C920;Accesorios;150000;Efectivo;Recogida en tienda;4;52
+2025-11-21;JBL Flip 6;Altavoces;1190000;Tarjeta Debito;Recogida en tienda;5;21
+2025-08-03;Sony SRS-XB43;Altavoces;840000;PayPal;Servientrega;3;29
+2025-10-15;Cargador GaN 100W;Accesorios;140000;Tarjeta Debito;Servientrega;4;19
+2025-01-10;HP Spectre x360;Laptops;3780000;Tarjeta Debito;Recogida en tienda;5;45
+2025-04-01;LG UltraGear 27;Monitores;1860000;Tarjeta Debito;Express;4;58
+2025-01-06;LG UltraGear 27;Monitores;2760000;Tarjeta Credito;Recogida en tienda;4;26
+2025-01-07;Sonos One;Altavoces;1290000;Efectivo;Express;4;51
+2025-04-05;Mouse Logitech MX Master 3S;Accesorios;140000;PayPal;Recogida en tienda;4;18
+2025-03-26;JBL Flip 6;Altavoces;980000;PayPal;Express;5;18
+2025-01-21;Mouse Logitech MX Master 3S;Accesorios;190000;Tarjeta Debito;Servientrega;3;66
+2025-05-31;iPhone 15 Pro;Smartphones;5030000;Tarjeta Credito;Express;5;56
+2025-11-09;MacBook Pro 16;Laptops;8910000;PayPal;Recogida en tienda;5;26
+2025-05-07;Lenovo ThinkPad X1;Laptops;6970000;Tarjeta Credito;Recogida en tienda;4;69
+2025-10-05;Monitor Portátil Arzopa;Monitores;3010000;Efectivo;Express;5;27
+2025-11-16;Google Pixel 8;Smartphones;1910000;PayPal;Servientrega;5;39
+2025-03-16;Samsung Galaxy S24 Ultra;Smartphones;3330000;PayPal;Express;4;42
+2025-06-30;MacBook Pro 16;Laptops;8920000;PayPal;Express;4;60
+2025-05-17;Cargador GaN 100W;Accesorios;460000;PayPal;Express;5;47
+2025-07-14;Bose SoundLink Mini II;Altavoces;820000;Tarjeta Credito;Express;5;20
+2025-04-03;Lenovo ThinkPad X1;Laptops;5830000;Tarjeta Credito;Servientrega;4;49
+2025-02-28;iPhone 15 Pro;Smartphones;5140000;Tarjeta Debito;Servientrega;4;66
+2025-12-04;Sony SRS-XB43;Altavoces;170000;Efectivo;Recogida en tienda;5;59
+2025-12-09;HP Spectre x360;Laptops;6220000;PayPal;Servientrega;5;27
+2025-03-15;Dell XPS 15;Laptops;5650000;Tarjeta Credito;Express;4;34
+2025-03-12;JBL Flip 6;Altavoces;1190000;Nequi/DaviPlata;Servientrega;4;34
+2025-04-29;Monitor Portátil Arzopa;Monitores;1250000;PayPal;Servientrega;2;51
+2025-05-16;Asus ROG Zephyrus;Laptops;5410000;Tarjeta Debito;Express;5;22
+2025-08-18;Hub USB-C Anker;Accesorios;180000;PayPal;Servientrega;4;40
+2024-12-27;HP Spectre x360;Laptops;8000000;Tarjeta Debito;Express;5;26
+2025-10-05;Samsung Galaxy S24 Ultra;Smartphones;5370000;PayPal;Express;5;63
+2024-12-14;Dell XPS 15;Laptops;7390000;Tarjeta Debito;Servientrega;3;65
+2025-04-27;iPhone 15 Pro;Smartphones;5920000;Tarjeta Credito;Recogida en tienda;5;55
+2025-04-22;Hub USB-C Anker;Accesorios;430000;PayPal;Recogida en tienda;5;39
+2025-07-15;Cargador GaN 100W;Accesorios;110000;Efectivo;Recogida en tienda;5;33
+2025-01-21;Xiaomi 13T;Smartphones;6440000;PayPal;Express;5;22
+2025-09-23;Hub USB-C Anker;Accesorios;210000;Efectivo;Servientrega;3;22
+2025-08-18;Webcam Logitech C920;Accesorios;240000;Tarjeta Debito;Express;4;67
+2025-08-23;Echo Dot 5th Gen;Altavoces;550000;PayPal;Express;5;58
+2025-08-18;Google Pixel 8;Smartphones;2480000;Tarjeta Credito;Recogida en tienda;4;33
+2025-02-23;Mouse Logitech MX Master 3S;Accesorios;150000;Tarjeta Debito;Express;4;36
+2025-01-08;Sony SRS-XB43;Altavoces;980000;Tarjeta Credito;Express;4;20
+2025-06-07;Samsung Odyssey G7;Monitores;1990000;Nequi/DaviPlata;Servientrega;4;34
+2025-03-04;Asus ROG Zephyrus;Laptops;5270000;Tarjeta Debito;Express;5;61
+2025-04-26;Mouse Logitech MX Master 3S;Accesorios;410000;Tarjeta Credito;Servientrega;2;63
+2025-08-29;BenQ PD2700U;Monitores;1420000;Efectivo;Servientrega;5;64
+2025-11-12;BenQ PD2700U;Monitores;1730000;PayPal;Servientrega;2;52
+2025-03-04;Monitor Portátil Arzopa;Monitores;2380000;Tarjeta Credito;Servientrega;3;22
+2025-10-11;Xiaomi 13T;Smartphones;3220000;Efectivo;Recogida en tienda;5;19
+2025-08-03;Hub USB-C Anker;Accesorios;300000;Efectivo;Servientrega;2;31
+2025-08-07;Sonos One;Altavoces;790000;Tarjeta Credito;Recogida en tienda;5;41
+2025-09-03;Dell UltraSharp U2723QE;Monitores;2050000;PayPal;Servientrega;4;20
+2025-07-01;iPhone 15 Pro;Smartphones;1920000;PayPal;Express;4;45
+2025-03-22;Hub USB-C Anker;Accesorios;190000;Tarjeta Credito;Recogida en tienda;5;36
+2025-09-16;Asus ROG Zephyrus;Laptops;5940000;PayPal;Express;5;19
+2025-10-17;Xiaomi 13T;Smartphones;830000;Efectivo;Servientrega;5;40
+2025-03-23;Dell XPS 15;Laptops;5090000;Tarjeta Debito;Recogida en tienda;5;46
+2025-06-29;HP Spectre x360;Laptops;4920000;PayPal;Recogida en tienda;5;19
+2025-06-29;Bose SoundLink Mini II;Altavoces;1060000;Efectivo;Servientrega;4;25
+2025-01-13;JBL Flip 6;Altavoces;1140000;Efectivo;Recogida en tienda;5;35
+2025-11-07;LG UltraGear 27;Monitores;1160000;Tarjeta Debito;Express;5;38
+2025-11-26;Echo Dot 5th Gen;Altavoces;740000;PayPal;Servientrega;5;21
+2025-11-08;BenQ PD2700U;Monitores;2110000;Nequi/DaviPlata;Recogida en tienda;4;28
+2025-10-31;Webcam Logitech C920;Accesorios;290000;Nequi/DaviPlata;Express;5;26
+2025-03-29;Samsung Odyssey G7;Monitores;2940000;Tarjeta Debito;Recogida en tienda;4;32
+2024-12-12;Dell XPS 15;Laptops;4370000;Tarjeta Debito;Servientrega;3;69
+2025-02-25;MacBook Pro 16;Laptops;4990000;Tarjeta Debito;Servientrega;5;53
+2025-10-10;Samsung Galaxy S24 Ultra;Smartphones;4340000;Tarjeta Credito;Servientrega;2;54
+2025-10-03;Xiaomi 13T;Smartphones;4040000;Tarjeta Credito;Express;4;22
+2025-08-03;Samsung Odyssey G7;Monitores;1130000;Tarjeta Debito;Recogida en tienda;4;61
+2025-05-17;Samsung Odyssey G7;Monitores;2330000;Tarjeta Debito;Express;4;55
+2025-01-09;Lenovo ThinkPad X1;Laptops;7450000;Tarjeta Debito;Express;4;59
+2025-02-02;Samsung Odyssey G7;Monitores;2220000;PayPal;Servientrega;2;41
+2025-02-18;Mouse Logitech MX Master 3S;Accesorios;500000;Efectivo;Express;4;42
+2025-11-09;HP Spectre x360;Laptops;3970000;Tarjeta Debito;Express;5;29
+2025-01-15;HP Spectre x360;Laptops;6860000;PayPal;Servientrega;4;29
+2025-05-19;Hub USB-C Anker;Accesorios;230000;Tarjeta Credito;Servientrega;3;27
+2025-03-05;iPhone 15 Pro;Smartphones;2890000;Tarjeta Debito;Express;5;41
+2025-02-25;Samsung Galaxy S24 Ultra;Smartphones;2040000;Tarjeta Credito;Recogida en tienda;5;65
+2025-08-18;Mouse Logitech MX Master 3S;Accesorios;200000;Tarjeta Debito;Recogida en tienda;5;70
+2025-02-16;Echo Dot 5th Gen;Altavoces;1060000;Tarjeta Credito;Servientrega;3;27
+2025-10-31;Asus ROG Zephyrus;Laptops;8810000;Tarjeta Credito;Recogida en tienda;5;58
+2025-10-20;Webcam Logitech C920;Accesorios;150000;Tarjeta Credito;Recogida en tienda;5;50
+2025-03-16;Sonos One;Altavoces;330000;Efectivo;Express;5;52
+2025-09-14;Samsung Odyssey G7;Monitores;730000;Efectivo;Recogida en tienda;4;37
+2025-08-06;Samsung Odyssey G7;Monitores;2690000;Nequi/DaviPlata;Express;5;39
+2025-09-29;Cargador GaN 100W;Accesorios;250000;Nequi/DaviPlata;Recogida en tienda;4;33
+2025-06-30;Bose SoundLink Mini II;Altavoces;1270000;PayPal;Servientrega;2;45
+2025-02-09;Webcam Logitech C920;Accesorios;100000;PayPal;Express;5;29
+2025-01-31;LG UltraGear 27;Monitores;2610000;Tarjeta Debito;Recogida en tienda;5;49
+2025-07-15;HP Spectre x360;Laptops;8830000;Tarjeta Credito;Servientrega;4;61
+2025-10-04;JBL Flip 6;Altavoces;1000000;Tarjeta Debito;Servientrega;4;30
+2025-08-21;Motorola Edge 40;Smartphones;4470000;Tarjeta Debito;Express;4;39
+2025-05-24;LG UltraGear 27;Monitores;3050000;PayPal;Recogida en tienda;4;25
+2025-08-09;Webcam Logitech C920;Accesorios;420000;Nequi/DaviPlata;Servientrega;2;29
+2025-09-16;Samsung Galaxy S24 Ultra;Smartphones;2840000;PayPal;Express;5;53
+2025-11-07;iPhone 15 Pro;Smartphones;1410000;Tarjeta Debito;Servientrega;5;37
+2025-05-15;Lenovo ThinkPad X1;Laptops;4860000;Tarjeta Credito;Servientrega;4;53
+2025-08-06;Bose SoundLink Mini II;Altavoces;420000;Tarjeta Debito;Recogida en tienda;4;23
+2025-12-08;Echo Dot 5th Gen;Altavoces;1730000;PayPal;Express;4;57
+2025-06-29;LG UltraGear 27;Monitores;1540000;Tarjeta Credito;Express;4;32
+2025-01-22;iPhone 15 Pro;Smartphones;6490000;PayPal;Express;5;65
+2025-07-09;Dell UltraSharp U2723QE;Monitores;2560000;PayPal;Express;5;63
+2025-12-08;Sony SRS-XB43;Altavoces;720000;Tarjeta Debito;Recogida en tienda;4;64
+2025-10-01;MacBook Pro 16;Laptops;7920000;Tarjeta Credito;Express;4;33
+2025-08-05;Motorola Edge 40;Smartphones;2700000;Nequi/DaviPlata;Servientrega;3;24
+2025-12-10;Logitech g502;Accesorios;280000;Nequi/DaviPlata;Express;4;25

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TrendGear Analytics</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+</head>
+
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <h2>🚀 Nueva Venta</h2>
+            <form id="ventaForm">
+                <label>Producto</label>
+                <input type="text" id="producto" placeholder="Ej: Mouse Gamer" required>
+
+                <label>Categoría</label>
+                <select id="categoria">
+                    <option value="Laptops">Laptops</option>
+                    <option value="Smartphones">Smartphones</option>
+                    <option value="Audio">Altavoces</option>
+                    <option value="Accesorios">Accesorios</option>
+                    <option value="Monitores">Monitores</option>
+                </select>
+
+                <label>Precio ($)</label>
+                <input type="number" id="precio" step="0.01" placeholder="0.00" required>
+
+                <label>Método de Pago</label>
+                <select id="metodo">
+                    <option value="Tarjeta credito">Tarjeta de Crédito</option>
+                    <option value="Tarjeta debito">Tarjeta de Débito</option>
+                    <option value="Nequi/DaviPlata">Nequi / DaviPlata</option>
+                    <option value="Efectivo">Efectivo</option>
+                    <option value="PayPal">PayPal</option>
+                </select>
+
+                <label>Edad Cliente</label>
+                <input type="number" id="edad" value="25">
+
+                <label>Tipo de Envío</label>
+                <select id="envio">
+                    <option value="Express">Express (1-2 días)</option>
+                    <option value="Standard">Standard (3-5 días)</option>
+                    <option value="Recogida">Recogida en Tienda</option>
+                </select>
+
+                <label>Nivel de Satisfacción (1-5)</label>
+                <div class="range-container">
+                    <input type="range" id="satisfaccion" min="1" max="5" value="5"
+                        oninput="this.nextElementSibling.value = this.value">
+                    <output>5</output>
+                </div>
+
+                <button type="submit">Registrar Venta</button>
+            </form>
+        </aside>
+
+        <main class="dashboard">
+            <header>
+                <h1>TrendGear Analytics 📊</h1>
+            </header>
+
+            <div class="charts-container">
+                <div class="card">
+                    <h3>Ventas por Categoría</h3>
+                    <canvas id="chartCategorias"></canvas>
+                </div>
+                <div class="card">
+                    <h3>Métodos de Pago</h3>
+                    <canvas id="chartPagos"></canvas>
+                </div>
+            </div>
+
+            <div class="card">
+                <h3>Historial de Ventas</h3>
+                <table id="tablaVentas">
+                    <thead>
+                        <tr>
+                            <th>Fecha</th>
+                            <th>Producto</th>
+                            <th>Categoría</th>
+                            <th>Envío</th>
+                            <th>Calif.</th>
+                            <th>Precio</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+
+                <div class="pagination-controls">
+                    <button id="prevButton">Anterior</button>
+                    <span id="pageInfo"></span>
+                    <button id="nextButton">Siguiente</button>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script type="module" src="../js/script.js"></script>
+</body>
+
+</html>
